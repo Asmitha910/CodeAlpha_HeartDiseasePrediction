@@ -102,7 +102,7 @@ Random Forest was selected because:
 
 CodeAlpha_HeartDiseasePrediction
 
-├── Home.py
+├── home.py
 
 ├── heart.csv
 
@@ -170,7 +170,7 @@ pip install pandas numpy scikit-learn streamlit plotly reportlab
 
 ## Run the Application
 
-streamlit run Home.py
+streamlit run home.py
 
 ---
 
